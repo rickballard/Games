@@ -22,3 +22,8 @@ for civic problems and route them to the right orgs.
 - Consolidate seed docs into design/GameDesignDoc.md.
 - Define specs/WisdomPackage.schema.json.
 - Start a low-fi paper prototype in prototypes/paper/.
+
+## Donate to Support CoCivium
+Help us keep building. Donation info coming soon.
+
+
