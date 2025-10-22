@@ -1,0 +1,7 @@
+# VS Code
+.vscode/
+# Node/PNPM if used later
+node_modules/
+# OS junk
+.DS_Store
+Thumbs.db
